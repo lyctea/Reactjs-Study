@@ -1,1 +1,2 @@
 webpack-dev-server --content-base src --inline --hot
+webpack-dev-server --content-base src
