@@ -9,3 +9,5 @@ class Index extends React.Component{
     )
   }
 }
+
+ReactDom.render(<Index>,document.getElementById('example'))

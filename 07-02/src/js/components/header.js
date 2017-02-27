@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDom from 'react-dom'
 
-class Header extends React.Component{
+exports default class ComponentHeader extends React.Component{
   render(){
     return (
       <header>
